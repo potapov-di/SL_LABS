@@ -1,0 +1,57 @@
+1) mkdir linux_lab
+2) cd linux_lab         
+   linux_lab mkdir -p projects/web/static          
+   linux_lab mkdir backups     
+  linux_lab mkdir temp     
+  linux_lab cd projects
+  projects mkdir scripts 
+3)  web cd /home/daniil/linux_lab
+  linux_lab tree
+4)cd projects
+cd scripts
+touch main.py
+touch config.yaml
+touch utils.sh
+5)
+web touch index.html
+web touch styles.css
+6)cat > index.html
+gnjfggdf
++ на клавиатуре ctrl+d
+7)cp styles.css  /home/daniil/linux_lab/temp/old_styles.css
+8)cp /home/daniil/linux_lab/projects/scripts/config.yaml /home/daniil/linux_lab/temp/
+9)cp /home/daniil/linux_lab/projects/scripts/*.sh /home/daniil/linux_lab/temp/
+10)ls -lRh --sort=size ~/linux_lab
+11)ln ~/linux_lab/projects/scripts/main.py hard_link.txt
+12)cat hard_link.txt
+13)cat > hard_link.txt
+tfygyjytuuuj
+14)cat ~/linux_lab/projects/scripts/main.py
+15)cd ~/linux_lab/temp/
+ln -s ~/linux_lab/projects/web/static/ web_link
+16)cd ~/linux_lab/temp/web_link
+17)tree
+16)tar -cvf ~/linux_lab/backups/projects_backup.tar projects/ 
+17)tar -czf ~/linux_lab/backups/web_backup.tar.gz  projects/web/
+18)cd linux_lab/projects/scripts/
+zip ~/linux_lab/backups/important_files.zip main.py utils.sh
+19)tar -xzf ~/linux_lab/backups/web_backup.tar.gz -C ~/linux_lab/temp/restored_web
+20)unzip -l ~/linux_lab/backups/important_files.zip
+21)rm -rf ~/linux_lab/temp/*  
+22)rm -rf ~/linux_lab/backups/*
+23)-
+24){
+whoami
+logname
+pwd
+id
+ls -l projects/scripts/
+} > ~/linux_lab/report.txt
+25)date >> ~/linux_lab/report.txt 
+26)cp ~/linux_lab/report.txt ~   
+27)zip -P 1111 -r ~/linux_lab_final.zip linux_lab/
+28)unzip -l ~/linux_lab_final.zip 
+29)rm -r ~/linux_lab 
+30)unzip ~/linux_lab_final.zip  
+31)cat ~/linux_lab/report.txt
+32)tree ~/linux_lab 

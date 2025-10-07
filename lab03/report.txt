@@ -1,0 +1,4 @@
+daniil
+/home/daniil
+uid=1000(daniil) gid=1000(daniil) groups=1000(daniil),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users),105(lpadmin),125(sambashare),986(vboxsf)
+Tue Oct  7 01:37:34 PM +03 2025
