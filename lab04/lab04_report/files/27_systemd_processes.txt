@@ -1,0 +1,9 @@
+root         278       1  0 22:49 ?        00:00:00 /usr/lib/systemd/systemd-journald
+root         334       1  0 22:49 ?        00:00:01 /usr/lib/systemd/systemd-udevd
+systemd+     521       1  0 22:49 ?        00:00:00 /usr/lib/systemd/systemd-resolved
+systemd+     523       1  0 22:49 ?        00:00:00 /usr/lib/systemd/systemd-timesyncd
+message+     610       1  0 22:49 ?        00:00:05 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         641       1  0 22:49 ?        00:00:00 /usr/lib/systemd/systemd-logind
+daniil      1310       1  0 22:50 ?        00:00:00 /usr/lib/systemd/systemd --user
+daniil      1334    1310  0 22:50 ?        00:00:06 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+daniil      5834    2117  0 23:57 pts/0    00:00:00 grep --color=auto --exclude-dir=.bzr --exclude-dir=CVS --exclude-dir=.git --exclude-dir=.hg --exclude-dir=.svn --exclude-dir=.idea --exclude-dir=.tox --exclude-dir=.venv --exclude-dir=venv systemd

@@ -1,0 +1,8 @@
+/home/daniil/Downloads/code.deb
+/home/daniil/.config/Code/CachedData/e3a5acfb517a443235981655413d566533107e92/chrome/js/ab2c73a2b3486c48_0
+/home/daniil/.oh-my-zsh/.git/objects/pack/pack-6eed84db02b0382aee28e08007cc54b7df7df23c.pack
+/home/daniil/.oh-my-zsh/plugins/z/img/demo.gif
+/home/daniil/.oh-my-zsh/plugins/zsh-interactive-cd/demo.gif
+/home/daniil/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/.git/objects/pack/pack-3d3d23bc1382c85e79df6a8e6a5c6e5bf50bb3a3.pack
+/home/daniil/.local/share/Trash/files/linux_lab.zip
+/home/daniil/.cache/mesa_shader_cache_db/index

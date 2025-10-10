@@ -1,0 +1,20 @@
+2025-10-10T23:41:03.668287+03:00 daniil-VirtualBox systemd[1]: Starting packagekit.service - PackageKit Daemon...
+2025-10-10T23:41:03.672541+03:00 daniil-VirtualBox PackageKit: daemon start
+2025-10-10T23:41:03.698589+03:00 daniil-VirtualBox dbus-daemon[610]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+2025-10-10T23:41:03.698725+03:00 daniil-VirtualBox systemd[1]: Started packagekit.service - PackageKit Daemon.
+2025-10-10T23:45:54.807059+03:00 daniil-VirtualBox systemd[1]: Starting fwupd-refresh.service - Refresh fwupd metadata and update motd...
+2025-10-10T23:45:55.127148+03:00 daniil-VirtualBox dbus-daemon[610]: [system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.104' (uid=988 pid=5400 comm="/usr/bin/fwupdmgr refresh" label="unconfined")
+2025-10-10T23:45:55.176326+03:00 daniil-VirtualBox systemd[1]: Starting fwupd.service - Firmware update daemon...
+2025-10-10T23:45:55.926152+03:00 daniil-VirtualBox dbus-daemon[610]: [system] Activating via systemd: service name='org.bluez' unit='dbus-org.bluez.service' requested by ':1.105' (uid=0 pid=5406 comm="/usr/libexec/fwupd/fwupd" label="unconfined")
+2025-10-10T23:45:55.929349+03:00 daniil-VirtualBox systemd[1]: bluetooth.service - Bluetooth service was skipped because of an unmet condition check (ConditionPathIsDirectory=/sys/class/bluetooth).
+2025-10-10T23:45:57.699253+03:00 daniil-VirtualBox fwupd[5406]: 20:45:57.698 FuMain               fwupd 1.9.31 ready for requests (locale en_US.UTF-8)
+2025-10-10T23:45:57.701120+03:00 daniil-VirtualBox dbus-daemon[610]: [system] Successfully activated service 'org.freedesktop.fwupd'
+2025-10-10T23:45:57.702423+03:00 daniil-VirtualBox systemd[1]: Started fwupd.service - Firmware update daemon.
+2025-10-10T23:45:57.753442+03:00 daniil-VirtualBox systemd[1]: fwupd-refresh.service: Deactivated successfully.
+2025-10-10T23:45:57.753682+03:00 daniil-VirtualBox systemd[1]: Finished fwupd-refresh.service - Refresh fwupd metadata and update motd.
+2025-10-10T23:46:08.580109+03:00 daniil-VirtualBox PackageKit: daemon quit
+2025-10-10T23:46:08.592911+03:00 daniil-VirtualBox systemd[1]: packagekit.service: Deactivated successfully.
+2025-10-11T00:00:00.582860+03:00 daniil-VirtualBox systemd[1]: Starting dpkg-db-backup.service - Daily dpkg database backup service...
+2025-10-11T00:00:02.653300+03:00 daniil-VirtualBox systemd[1]: logrotate.service - Rotate log files was skipped because of an unmet condition check (ConditionACPower=true).
+2025-10-11T00:00:03.035789+03:00 daniil-VirtualBox systemd[1]: dpkg-db-backup.service: Deactivated successfully.
+2025-10-11T00:00:03.036095+03:00 daniil-VirtualBox systemd[1]: Finished dpkg-db-backup.service - Daily dpkg database backup service.
