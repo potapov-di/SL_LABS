@@ -1,0 +1,9 @@
+{
+  "software": [
+    {"software_id": "soft1", "name": "OfficeSuite", "vendor": "Microsoft", "version": "2021", "license": "commercial", "price": 299, "users_count": 5000},
+    {"software_id": "soft2", "name": "DesignPro", "vendor": "Adobe", "version": "2023", "license": "subscription", "price": 59, "users_count": 12000},
+    {"software_id": "soft3", "name": "DatabaseManager", "vendor": "Oracle", "version": "19c", "license": "enterprise", "price": 1500, "users_count": 800},
+    {"software_id": "soft4", "name": "SecurityTool", "vendor": "Kaspersky", "version": "2024", "license": "personal", "price": 49, "users_count": 25000},
+    {"software_id": "soft5", "name": "DevelopmentKit", "vendor": "JetBrains", "version": "2023.2", "license": "commercial", "price": 199, "users_count": 15000}
+  ]
+}

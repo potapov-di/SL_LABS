@@ -1,0 +1,11 @@
+[
+    {
+        "software_id": "soft2",
+        "name": "DesignPro",
+        "vendor": "Adobe",
+        "version": "2023",
+        "license": "subscription",
+        "price": 59,
+        "users_count": 12000
+    }
+]

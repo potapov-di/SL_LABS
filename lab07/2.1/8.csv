@@ -1,0 +1,25 @@
+ProductID;ProductName;Category;Stock;MinStock;Supplier
+PRD001;Laptop;Electronics;25;10;TechSupplier
+PRD002;Smartphone;Electronics;45;20;PhoneDistributor
+PRD003;Headphones;Electronics;60;30;AudioCompany
+PRD004;Printer;Office Equipment;15;5;OfficeSupplies
+PRD005;Paper;Office Supplies;200;100;PaperCompany
+PRD006;Office Chair;Furniture;35;15;FurnitureStore
+PRD007;Computer Desk;Furniture;20;8;FurnitureStore
+PRD008;Monitor;Electronics;30;12;TechSupplier
+PRD009;Keyboard;Electronics;80;40;PeripheralCo
+PRD010;Wireless Mouse;Electronics;95;50;PeripheralCo
+PRD011;Stationery Sets;Office Supplies;150;75;OfficeSupplies
+PRD012;Printer Cartridge;Office Equipment;40;20;InkSupplier
+PRD013;Hard Drive 1TB;Electronics;55;25;TechSupplier
+PRD014;Flash Drive 64GB;Electronics;120;60;MemoryCompany
+PRD015;Router;Electronics;28;14;NetworkSupplier
+PRD016;UPS;Electronics;18;9;PowerCompany
+PRD017;Web Camera;Electronics;65;35;PeripheralCo
+PRD018;Speakers;Electronics;42;21;AudioCompany
+PRD019;Mouse Pad;Office Supplies;180;90;OfficeSupplies
+PRD020;Laptop Stand;Furniture;22;11;FurnitureStore
+PRD021;Surge Protector;Electronics;75;38;PowerCompany
+PRD022;Graphics Tablet;Electronics;16;8;CreativeTools
+PRD023;Microphone;Electronics;38;19;AudioCompany
+PRD024;Scanner;Office Equipment;12;6;
