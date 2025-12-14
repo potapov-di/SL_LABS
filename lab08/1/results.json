@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Belarus",
+        "capital": "Minsk",
+        "area": 207600.0,
+        "population": 9109280,
+        "currency": "Belarusian ruble",
+        "density": 43.87899807321773,
+        "flag_url": "https://flagcdn.com/w320/by.png"
+    },
+    {
+        "name": "Ukraine",
+        "capital": "Kyiv",
+        "area": 603550.0,
+        "population": 32862000,
+        "currency": "Ukrainian hryvnia",
+        "density": 54.44785021953442,
+        "flag_url": "https://flagcdn.com/w320/ua.png"
+    },
+    {
+        "name": "Poland",
+        "capital": "Warsaw",
+        "area": 312679.0,
+        "population": 37392000,
+        "currency": "Polish złoty",
+        "density": 119.58590119579505,
+        "flag_url": "https://flagcdn.com/w320/pl.png"
+    },
+    {
+        "name": "Norway",
+        "capital": "Oslo",
+        "area": 386224.0,
+        "population": 5606944,
+        "currency": "Norwegian krone",
+        "density": 14.517337089357472,
+        "flag_url": "https://flagcdn.com/w320/no.png"
+    },
+    {
+        "name": "United Kingdom",
+        "capital": "London",
+        "area": 244376.0,
+        "population": 69281437,
+        "currency": "British pound",
+        "density": 283.50344141814253,
+        "flag_url": "https://flagcdn.com/w320/gb.png"
+    },
+    {
+        "name": "Sweden",
+        "capital": "Stockholm",
+        "area": 450295.0,
+        "population": 10605098,
+        "currency": "Swedish krona",
+        "density": 23.551445163726,
+        "flag_url": "https://flagcdn.com/w320/se.png"
+    },
+    {
+        "name": "Russia",
+        "capital": "Moscow",
+        "area": 17098246.0,
+        "population": 146028325,
+        "currency": "Russian ruble",
+        "density": 8.540544158740024,
+        "flag_url": "https://flagcdn.com/w320/ru.png"
+    },
+    {
+        "name": "Romania",
+        "capital": "Bucharest",
+        "area": 238391.0,
+        "population": 19036031,
+        "currency": "Romanian leu",
+        "density": 79.8521378743325,
+        "flag_url": "https://flagcdn.com/w320/ro.png"
+    }
+]
